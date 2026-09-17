@@ -9,7 +9,7 @@ int main() {
     cin >> n; 
 
     // using loops to enter elements of array, till I = n-1
-
+    cout << "enter the elements of arr  :   " ;
     int arr[n]; 
     for (int i = 0; i<n ; i++) {
         cin >> arr[i] ; 
