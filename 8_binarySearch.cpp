@@ -41,7 +41,7 @@ int main() {
 
 
     // Taking the target element as input 
-    cout << "\nenter the target element : ";
+    cout << "\nenter the target element : " ;
     cin >> target;
 
     // calling binary search and providing all values 
