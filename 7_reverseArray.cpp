@@ -1,4 +1,4 @@
-// Reversing thr original array with extra space.
+// Reversing thr original array with extra space..
 #include <iostream>
 using namespace std;
 
